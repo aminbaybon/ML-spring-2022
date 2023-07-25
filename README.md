@@ -1,0 +1,1 @@
+# text-Embedding-for-Question-Answering-using-OpenAI-api
